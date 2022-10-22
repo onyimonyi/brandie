@@ -1,0 +1,3 @@
+# brandie
+remove the mailing lines during registration.. we will still fix that...
+the jwt token is not return during registration.. this is also an issue we will fix
